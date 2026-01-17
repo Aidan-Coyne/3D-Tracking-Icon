@@ -8,6 +8,8 @@ This document outlines the implementation of high-end, interactive 3D elements f
 * **Dynamic Lighting:** A background "spotlight" effect creates depth and focus, following the mouse with smooth spring physics.
 * **Immersive Depth:** Uses a 3D coordinate system (X, Y, Z) rather than standard flat 2D movement.
 
+## 21st.dev for inspiration on models
+
 ## 3. The Tech Stack
 To achieve this result, we utilize three main technologies:
 1.  **Spline (3D Engine):** Used to design the bespoke figure and set up "Look At" constraints.
